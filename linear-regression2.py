@@ -43,7 +43,7 @@ for i in range(100):
 
 # Plot Results
 plt.title('Tempering Example')
-plt.xlabel('Tempering Temperation in \degree C')
+plt.xlabel('Tempering Temperation in degree C')
 plt.ylabel('Rockwell C hardness')
 plt.plot(xplot,yplot, color='blue')
 plt.scatter(x,y_noise)
