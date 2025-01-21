@@ -1,4 +1,5 @@
-# classification tree
+# Classification Tree
+# Iterative Dichotomiser 3 (ID3) algorithm
 
 import pandas as pd
 import numpy as np
